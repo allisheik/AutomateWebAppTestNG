@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.760">
+  <properties />
+  
+  
+            <testcase name="addtocart" time="21.760" classname="com.testng.demo.AddToCart" />
+      
+</testsuite>
